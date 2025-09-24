@@ -14,12 +14,34 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **RANTAI CRUISE** adalah asisten Web3 yang seru tapi powerful, yang otomatis menangani pemrosesan data, analitik, dan visualisasi insight, jadi kamu bisa fokus berkarya sementara dia urus semuanya. Dari unggah CSV/JSON hingga dashboard real-time, RANTAI Diva mengubah data blockchain dan operasional yang kompleks menjadi hasil yang mudah dipahami dan bisa langsung ditindaklanjuti. Tinggal goyangkan langkahmu, biarkan RANTAI Diva yang kerja! 💃✨
+    **RANTAI CRUISE** adalah platform pembelajaran interaktif yang dirancang untuk mahasiswa mata kuliah Bisnis Kapal Pesiar. Platform ini menggabungkan jalur pembelajaran terstruktur, studi kasus nyata, kuis interaktif, dan pelacakan progres untuk menciptakan pengalaman belajar yang seru dan praktis.
+
+    Dengan Rantai-Cruise, mahasiswa bisa:
+    
+    - Memahami industri kapal pesiar melalui contoh nyata.
+    
+    - Melacak perjalanan belajar dan pencapaian secara mudah.
+    
+    - Membuat catatan dan menandai materi penting.
+    
+    - Menjelajahi peluang karier di sektor cruise.
+    
+    Dibuat dengan fokus pada kesederhanaan dan interaktivitas, Rantai-Cruise mengubah konsep bisnis yang kompleks menjadi pembelajaran yang menyenangkan dan mudah dipahami
     
     ---
     #### 🔮 Vision Statement
     
-    Memberdayakan kreator, mahasiswa, dan inovator dengan membuat analitik dan insight berbasis data dan blockchain jadi mudah diakses. RANTAI Diva membayangkan dunia di mana memahami, memvisualisasikan, dan mengambil keputusan dari data semudah dan semenyenangkan menari—menghubungkan teknologi Web3 dengan kreativitas dan aksi nyata sehari-hari.
+    Visi kami adalah memberdayakan generasi baru profesional bisnis kapal pesiar melalui platform belajar yang interaktif, praktis, dan menyenangkan.
+
+    Kami bertujuan untuk:
+    
+    - Menjembatani teori di kelas dengan praktik nyata di industri.
+    
+    - Menginspirasi mahasiswa untuk mengeksplorasi karier di sektor kapal pesiar dan maritim.
+    
+    - Mendorong pembelajaran seumur hidup dengan alat yang intuitif, mudah diakses, dan menyenangkan.
+    
+    Rantai-Cruise bukan sekadar alat belajar—ini adalah gerbang menuju dunia peluang bisnis maritim.
    
     ---
     ### 🧩 STC Ecosystem
